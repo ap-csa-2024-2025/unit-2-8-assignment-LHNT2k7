@@ -11,8 +11,6 @@ public class Main
 
 
   }
-
-  // write your methods here
 }
 
 public static void printRandom3(int num)
